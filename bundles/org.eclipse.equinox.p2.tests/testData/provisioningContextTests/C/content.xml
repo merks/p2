@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?metadataRepository version='1.1.0'?>
+<?metadataRepository version='1.2.0'?>
 <repository name='file:/C:/_workspaces/p2/org.eclipse.equinox.p2.tests/testData/testRepos/updateSite/ - metadata' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
   <properties size='2'>
     <property name='p2.compressed' value='false'/>
-    <property name='p2.timestamp' value='1272593820620'/>
+    <property name='p2.timestamp' value='1679471747002'/>
   </properties>
-  <references size='2'>
-    <repository uri='file:/Users/Pascal/dev/p2/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' url='file:/Users/Pascal/dev/p2/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' type='1' options='1'/>
+  <references size='3'>
     <repository uri='file:/C:/_workspaces/p2/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' url='file:/C:/_workspaces/p2/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' type='1' options='1'/>
+    <repository uri='file:/Users/Pascal/dev/p2/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' url='file:/Users/Pascal/dev/p2/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' type='1' options='1'/>
+    <repository uri='file:/D:/Users/merks/oomph-p2-1.29/git/p2/bundles/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' url='file:/D:/Users/merks/oomph-p2-1.29/git/p2/bundles/org.eclipse.equinox.p2.tests/testData/provisioningContextTests/C/' type='1' options='1'/>
   </references>
   <units size='1'>
     <unit id='C' version='1.0.0' singleton='false'>
